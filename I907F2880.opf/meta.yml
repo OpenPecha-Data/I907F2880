@@ -1,0 +1,40 @@
+id: I907F2880
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:30:39.565804'
+last_modified: '2022-06-18T23:30:39.565818'
+parser: null
+source_metadata:
+  title: A mes zhabss (1597–1659) Great Sakya Genealogy
+  author: ཨ་མེས་ཞབས་ངག་དབང་ཀུན་དགའ་བསོད་ནམས།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2017-07-10);
+    converted from external file, revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - 'Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (INTERNAL); This text was initially inputted
+    by Sachen International (Digital Text version/id: AMAI016_ས་སྐྱའི་གདུང་རབས་ངོ་མཚར་བང་མཛོད།.doc,
+
+    2017-05-26). It is copy protected and only intended for SRC internal usage. It
+    should not be further distributed. (src)'
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:ཚེ་རིང་གྲོང་ཤར། (ut), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1566
+  bases:
+    91d9:
+      title: A mes zhabss (1597–1659) Great Sakya Genealogy
+      order: 1
+      base_file: 91d9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
